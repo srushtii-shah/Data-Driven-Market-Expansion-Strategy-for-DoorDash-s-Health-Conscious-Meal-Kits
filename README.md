@@ -5,7 +5,7 @@ Segmentation analysis identifies two primary consumer groups: Balanced Homemaker
 
 To quantify the factors influencing consumer purchasing decisions, regression analysis determines that pricing, freshness, and convenience are the most significant drivers of subscription intent. Additionally, sentiment analysis of social media and customer reviews highlights a strong preference for fresh, organic, and sustainable meal solutions, providing insights into consumer expectations and brand positioning.
 
-Geotargeting identifies urban markets with high demand potential, such as ZIP code 90007, where young professionals and health-conscious consumers exhibit a strong interest in meal kit subscriptions. Based on these findings, a positioning strategy is developed to differentiate DoorDash’s meal kit offerings by emphasizing freshness, sustainability, and convenience—key attributes aligned with industry trends.
+Geotargeting identifies urban markets with high demand potential, where young professionals and health-conscious consumers exhibit a strong interest in meal kit subscriptions. Based on these findings, a positioning strategy is developed to differentiate DoorDash’s meal kit offerings by emphasizing freshness, sustainability, and convenience—key attributes aligned with industry trends.
 
 Predictive analysis enhances sales forecasting accuracy by 1.93x, enabling better inventory planning and marketing budget allocation. The final recommendations include launching targeted digital marketing campaigns, implementing a personalized meal kit subscription model, offering first-month discounts and bundled promotions, and introducing biodegradable packaging to reinforce sustainability commitments.
 
